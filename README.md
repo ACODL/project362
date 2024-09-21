@@ -14,3 +14,5 @@ A real-time chat application that allows users to communicate with each other in
 
 - Performance: Messages should take less than 2 seconds to be sent out.
 - Ease of Use: The UI should be simple enough to make sending messages easy.
+
+  ![Alt text](ContextDiagram_Groupproject.drawio.png "a title")
